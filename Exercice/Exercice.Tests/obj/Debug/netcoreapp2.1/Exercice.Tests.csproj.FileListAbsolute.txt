@@ -1,0 +1,14 @@
+C:\Exercice\Test\Exercice\Exercice.Tests\bin\Debug\netcoreapp2.1\Exercice.Tests.deps.json
+C:\Exercice\Test\Exercice\Exercice.Tests\bin\Debug\netcoreapp2.1\Exercice.Tests.runtimeconfig.json
+C:\Exercice\Test\Exercice\Exercice.Tests\bin\Debug\netcoreapp2.1\Exercice.Tests.runtimeconfig.dev.json
+C:\Exercice\Test\Exercice\Exercice.Tests\bin\Debug\netcoreapp2.1\Exercice.Tests.dll
+C:\Exercice\Test\Exercice\Exercice.Tests\bin\Debug\netcoreapp2.1\Exercice.Tests.pdb
+C:\Exercice\Test\Exercice\Exercice.Tests\bin\Debug\netcoreapp2.1\Exercice.dll
+C:\Exercice\Test\Exercice\Exercice.Tests\bin\Debug\netcoreapp2.1\Exercice.pdb
+C:\Exercice\Test\Exercice\Exercice.Tests\obj\Debug\netcoreapp2.1\Exercice.Tests.csprojAssemblyReference.cache
+C:\Exercice\Test\Exercice\Exercice.Tests\obj\Debug\netcoreapp2.1\Exercice.Tests.csproj.CoreCompileInputs.cache
+C:\Exercice\Test\Exercice\Exercice.Tests\obj\Debug\netcoreapp2.1\Exercice.Tests.AssemblyInfoInputs.cache
+C:\Exercice\Test\Exercice\Exercice.Tests\obj\Debug\netcoreapp2.1\Exercice.Tests.AssemblyInfo.cs
+C:\Exercice\Test\Exercice\Exercice.Tests\obj\Debug\netcoreapp2.1\Exercice.Tests.csproj.CopyComplete
+C:\Exercice\Test\Exercice\Exercice.Tests\obj\Debug\netcoreapp2.1\Exercice.Tests.dll
+C:\Exercice\Test\Exercice\Exercice.Tests\obj\Debug\netcoreapp2.1\Exercice.Tests.pdb
